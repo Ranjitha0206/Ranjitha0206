@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as a **Software Developer at Intima Infotech LLP**
+- 🔭 Experienced Software Developer
 - 🛠️ Building scalable web applications using **C#, ASP.NET MVC, and RESTful APIs**
 - ☁️ Experienced with **AWS S3** for cloud-based file storage
 - 🗄️ Skilled in **MySQL** database design and SQL optimization
