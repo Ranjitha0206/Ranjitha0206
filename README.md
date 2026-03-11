@@ -39,7 +39,7 @@
 
 ## 💼 Work Experience
 
-### 🏢 Software Developer — Intima Infotech LLP *(May 2023 – Present)*
+### 🏢 Software Developer — Intima Infotech LLP *(May 2023 – Mar 2026)*
 - Developed and optimized backend workflows and RESTful APIs for a PCB Order Management System (Atzwerk)
 - Implemented EQ (Engineering Query) workflows for seamless communication between CAM users, OMS & customers
 - Performed SQL and database optimizations, reducing redundant API calls
